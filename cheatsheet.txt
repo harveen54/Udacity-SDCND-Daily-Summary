@@ -3,3 +3,5 @@ CheatSheet
 1. conda install nb_conda- https://github.com/Anaconda-Platform/nb_conda
 2. conda cheetsheat- https://conda.io/docs/_downloads/conda-cheatsheet.pdf
 3. run jupyter notebook from command line- jupyter notebook "notebookName"
+4. Change Jupyter notebook home directory- https://stackoverflow.com/questions/35254852/how-to-change-jupyter-start-folder
+
